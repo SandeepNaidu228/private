@@ -274,24 +274,11 @@ body {
 }
 
 .venue-title {
-  font-size: 35px;
+  font-size: 42px;
   margin-bottom: 60px;
   font-family: 'Cinzel', serif;
-  color: rgb(255, 255, 255);
+  color: white;
   letter-spacing: 4px;
-  background-image: url(/images/bg-1.png);
-
-  /* 1. Increase vertical size and keep text centered */
-  padding: 160px 0; 
-
-  /* 2. Scale the image to fill the new height */
-  background-size: cover; 
-
-  /* 3. Ensure the image is centered behind the text */
-  background-position: center;
-  
-  /* Optional: Prevent the image from repeating if it's small */
-  background-repeat: no-repeat;
 }
 
 .venue-card {
