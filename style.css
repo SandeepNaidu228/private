@@ -342,6 +342,7 @@ body {
 
 .temple2 {
   width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -365,7 +366,7 @@ body {
   font-size: 35px;
   letter-spacing: 2px;
   font-family: 'Cormorant Garamond', serif;
-  color: #E0A83A;
+  color: #ffffff;
   padding: 16px;
 }
 
@@ -373,11 +374,12 @@ body {
   font-size: 26px;
   font-weight: bold;
   margin-bottom: 30px;
+  text-transform: uppercase;
 }
 
 .countdown-para {
   width: 100%;            /* 👈 fill parent */
-  color: #E0A83A;
+  color: #ffffff;
   font-family: 'Playfair Display', serif;
   font-size: 10px;        /* slightly bigger */
   line-height: 1.8;
